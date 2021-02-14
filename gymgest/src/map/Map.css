@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  #root {
+    height: 100%;
+  }
+  
+  .map {
+    margin-top: 65px;
+    height: 420px;
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 993px) {
+    .map {
+      margin-top: 57px;
+      height: 420px;
+      width: 100%;
+    }
+  }
+  
+  video {
+    width: 100%;
+  }
+  
+  .message-form {
+    z-index: 999;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    max-width: 300px;
+  }
+  
+  .thanks-form {
+    z-index: 999;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    max-width: 220px;
+  }
+  
+  .footer {
+    z-index: 999;
+    position: absolute;
+    bottom: 35px;
+    left: 5px;
+    padding: 5px;
+  }
+
+  .button {
+    margin: "50px 50px 50px 50px";
+  }
+
+  .leaflet-control-container .leaflet-routing-container-hide .leaflet-routing-container .leaflet-bar .leaflet-routing-collapsible .leaflet-control{
+    display: none;
+}

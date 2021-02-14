@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5f43e3f4b5dfda4130000fca"},"user1":{"$oid":"5f43d1af139e9927f458fcef"},"user2":{"$oid":"5f43d221139e9927f458fcf0"},"__v":0}
+{"_id":{"$oid":"5f45096513a03f3c30b1180e"},"user1":{"$oid":"5f43d1af139e9927f458fcef"},"user2":{"$oid":"5f43d670139e9927f458fcf2"},"__v":0}
+{"_id":{"$oid":"5f450ae413a03f3c30b11813"},"user1":{"$oid":"5f43d221139e9927f458fcf0"},"user2":{"$oid":"5f43dbda139e9927f458fcf6"},"__v":0}

@@ -1,0 +1,30 @@
+Posizionarsi sulla cartella bin di mongoDB.
+
+Eseguire i comandi (modificando ovviamente il path):
+
+mongoimport --db GymGest --collection "chats" --file "path\chats.json"
+
+mongoimport --db GymGest --collection "genders" --file "path\genders.json"
+
+mongoimport --db GymGest --collection "info" --file "path\info.json"
+
+mongoimport --db GymGest --collection "lessons" --file "path\lessons.json"
+
+mongoimport --db GymGest --collection "maps" --file "path\maps.json"
+
+mongoimport --db GymGest --collection "messages" --file "path\messages.json"
+
+mongoimport --db GymGest --collection "messagestatus" --file "path\messagestatus.json"
+
+mongoimport --db GymGest --collection "notifications" --file "path\notifications.json"
+
+mongoimport --db GymGest --collection "notificationstatus" --file "path\notificationstatus.json"
+
+mongoimport --db GymGest --collection "plans" --file "path\plans.json"
+
+mongoimport --db GymGest --collection "reservations" --file "path\reservations.json"
+
+mongoimport --db GymGest --collection "roles" --file "path\roles.json"
+
+mongoimport --db GymGest --collection "users" --file "path\users.json"
+

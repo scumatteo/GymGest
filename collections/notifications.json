@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5f43e33cb5dfda4130000fc8"},"fromUser":{"$oid":"5f43d1af139e9927f458fcef"},"toUser":{"$oid":"5f43d221139e9927f458fcf0"},"seen":true,"status":{"$oid":"5f43d0a9139e9927f458fce9"},"__v":0}
+{"_id":{"$oid":"5f451075540afc2558d3a7e0"},"fromUser":{"$oid":"5f43dbda139e9927f458fcf6"},"toUser":{"$oid":"5f43d691139e9927f458fcf3"},"seen":false,"status":{"$oid":"5f43d0a9139e9927f458fce9"},"__v":0}
+{"_id":{"$oid":"5f45109e540afc2558d3a7e2"},"fromUser":{"$oid":"5f43dbda139e9927f458fcf6"},"toUser":{"$oid":"5f43d670139e9927f458fcf2"},"seen":false,"status":{"$oid":"5f43d0a9139e9927f458fce9"},"__v":0}
+{"_id":{"$oid":"5f451167540afc2558d3a7e4"},"fromUser":{"$oid":"5f43dbf4139e9927f458fcf7"},"toUser":{"$oid":"5f43d221139e9927f458fcf0"},"seen":false,"status":{"$oid":"5f43d0a9139e9927f458fcea"},"__v":0}
+{"_id":{"$oid":"5f451195540afc2558d3a7e6"},"fromUser":{"$oid":"5f43dbf4139e9927f458fcf7"},"toUser":{"$oid":"5f43d670139e9927f458fcf2"},"seen":false,"status":{"$oid":"5f43d0a9139e9927f458fce8"},"__v":0}
